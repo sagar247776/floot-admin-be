@@ -1,5 +1,5 @@
 {
-  "name": "axle-admin-be",
+  "name": "floot-admin-be",
   "version": "1.0.0",
   "description": "Admin Dashboard for Axle Games",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon index.js"
   },
-  "author": "axle",
+  "author": "sagar",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
